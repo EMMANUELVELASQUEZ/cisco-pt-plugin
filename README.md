@@ -1,7 +1,6 @@
-# 🌐 Cisco Packet Tracer Plugin PRO
+# Cisco Packet Tracer Plugin PRO
 
 **Autor:** Emmanuel Velasquez Geron  
-**Matricula:** S23023048  
 **Universidad Veracruzana - CCNA 2**
 
 ## Descripcion
